@@ -1,0 +1,26 @@
+# SalesAssist AI Reference Content
+
+SalesAssist is a powerful AI-driven sales assistant designed to help sales representatives during customer calls. It provides real-time insights, answers questions, and helps close deals more effectively.
+
+Key Features:
+- Real-time transcription of sales calls
+- AI-powered analysis of customer questions and concerns
+- Contextual responses based on uploaded documents and live conversation
+- Screen sharing capabilities for product demonstrations
+- PDF document analysis for reference during calls
+
+Best Practices for Sales Calls:
+1. Listen actively to customer needs and pain points
+2. Address objections with specific benefits and solutions
+3. Use concrete examples and case studies when explaining product features
+4. Follow up on customer questions with detailed, accurate information
+5. Maintain a professional, helpful tone throughout the conversation
+
+Common Customer Questions:
+- "How does your pricing compare to competitors?"
+- "What kind of support do you offer after purchase?"
+- "Can you customize the solution for our specific needs?"
+- "What's your implementation timeline?"
+- "Do you have case studies from similar companies?"
+
+This content serves as a reference guide for the AI assistant to provide helpful, contextual responses during sales calls.
