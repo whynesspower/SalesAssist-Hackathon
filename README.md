@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Much of this code was scaffolded using windsurf and I have used my older nextjs templates. 
+
 ## Getting Started
 
 First, run the development server:
